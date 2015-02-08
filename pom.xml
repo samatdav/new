@@ -61,7 +61,7 @@
             <version>${version.jackson}</version>
         </dependency>
 
-        <!-- Servlet Api -->
+        <!-- Servlet API -->
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>servlet-api</artifactId>

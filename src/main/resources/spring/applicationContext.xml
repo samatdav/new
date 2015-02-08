@@ -14,7 +14,7 @@
     <context:annotation-config/>
 
     <!-- Spring package in which are classes with @Service, @Repository, and their beans will be created, except @Controller -->
-    <context:component-scan base-package="com.smth.web">
+    <context:component-scan base-package="com.smth">
         <context:exclude-filter type="annotation" expression="org.springframework.stereotype.Controller"/>
     </context:component-scan>
 
