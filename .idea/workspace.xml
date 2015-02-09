@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c524a716-b1a3-49de-a784-4d959c1d29e1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/smth/model/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/smth/dao/UserDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/smth/dao/UserDAOImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/smth/model/Sequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/smth/dao/SequenceDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/smth/dao/SequenceDAOImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Something.iws" />
@@ -95,8 +98,8 @@
       <file leaf-file-name="UserDAOImpl.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/smth/dao/UserDAOImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55776894" vertical-offset="0" max-vertical-offset="765">
-              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.16334662" vertical-offset="12" max-vertical-offset="765">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -654,17 +657,21 @@
       <workItem from="1423418758083" duration="9000" />
       <workItem from="1423418851834" duration="78000" />
       <workItem from="1423418959673" duration="2693000" />
-      <workItem from="1423461478172" duration="2416000" />
+      <workItem from="1423461478172" duration="2511000" />
     </task>
     <task id="LOCAL-00001" summary="Auto-increment with sequence.&#10;">
       <created>1423461742548</created>
       <updated>1423461742548</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added User DAO">
+      <created>1423472768057</created>
+      <updated>1423472768057</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5196000" />
+    <option name="totallyTimeSpent" value="5291000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -718,7 +725,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Auto-increment with sequence.&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Auto-increment with sequence.&#10;" />
+    <MESSAGE value="Added User DAO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added User DAO" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -826,8 +834,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/smth/dao/UserDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55776894" vertical-offset="0" max-vertical-offset="765">
-          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.16334662" vertical-offset="12" max-vertical-offset="765">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
