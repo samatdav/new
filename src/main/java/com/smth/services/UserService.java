@@ -15,8 +15,15 @@ import java.util.List;
 @Service
 public class UserService {
 
-    @Autowired private SequenceDAO sequenceDAO;
-    @Autowired private UserDAO userDAO;
+    @Autowired
+    private SequenceDAO sequenceDAO;
+
+    @Autowired
+    private UserDAO userDAO;
+
+    /*
+    * Basic operations
+     */
 
     public void addUser(User user) {
 

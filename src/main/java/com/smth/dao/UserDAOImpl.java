@@ -17,7 +17,11 @@ import java.util.List;
 public class UserDAOImpl implements UserDAO {
 
     @Autowired
-    private MongoOperations mongoOperations;
+    private MongoOperations mongoOperations; // working with mongoDB
+
+    /*
+    * Basic operations
+     */
 
     @Override
     public void save(User user) {

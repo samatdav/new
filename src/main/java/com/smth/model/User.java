@@ -25,6 +25,10 @@ public class User implements Serializable {
         this.name = name;
     }
 
+    /*
+    * Getters and setters
+     */
+
     public void setId(Long id) {
 
         this.id = id;

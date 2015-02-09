@@ -11,15 +11,17 @@ import java.io.Serializable;
 
 @Document(collection = Activity.COLLECTION_NAME)
 public class Activity implements Serializable {
-    public static final String COLLECTION_NAME = "activities";
+
+    public static final String COLLECTION_NAME = "activities"; // collection name for activities.
 
     @Id
     private Long id;
 
-    private String author;
-    private String content;
-    private String title;
-    private String price;
+    private String author; // activity author
+    private String content; // activity content
+    private String title; // title of activity
+    private String price; // price assigned to activity
+    private boolean completed; // status of activity.
 
     public Activity() {}
 
@@ -32,12 +34,16 @@ public class Activity implements Serializable {
         this.price = price;
     }
 
+    /*
+    * Getters and setters
+     */
+
     public void setId(Long id) {
 
         this.id = id;
     }
 
-    public Long id() {
+    public Long getId() {
 
         return id;
     }
@@ -80,5 +86,15 @@ public class Activity implements Serializable {
     public String getPrice() {
 
         return price;
+    }
+
+    public void setCompleted(boolean completed) {
+
+        this.completed = completed;
+    }
+
+    public boolean getCompleted() {
+
+        return completed;
     }
 }
