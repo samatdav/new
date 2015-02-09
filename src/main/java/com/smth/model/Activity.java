@@ -87,4 +87,14 @@ public class Activity implements Serializable {
 
         return price;
     }
+
+    public void setCompleted(boolean completed) {
+
+        this.completed = completed;
+    }
+
+    public boolean getCompleted() {
+
+        return completed;
+    }
 }
