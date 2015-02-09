@@ -17,8 +17,11 @@ import java.util.List;
 public class ActivityDAOImpl implements ActivityDAO {
 
     @Autowired
-    public MongoOperations mongoOperations;
+    public MongoOperations mongoOperations; // working with mongoDB
 
+    /*
+    * Basic operations
+     */
 
     @Override
     public void save(Activity activity) {

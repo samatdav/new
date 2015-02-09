@@ -19,6 +19,10 @@ public class Sequence {
 
     }
 
+    /*
+    * Getters and setters.
+     */
+
     public String getId() {
         return id;
     }

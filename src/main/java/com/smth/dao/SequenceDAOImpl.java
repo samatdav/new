@@ -20,6 +20,10 @@ public class SequenceDAOImpl implements SequenceDAO {
     @Autowired
     private MongoOperations mongoOperations;
 
+    /*
+    * Auto increment
+     */
+
     @Override
     public Long getNextSequenceId(String key) {
 
