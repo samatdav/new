@@ -1,0 +1,52 @@
+/*.navbuttons {
+	text-align: center;
+}*/
+/*.btn-default {
+	margin-left: 20px;
+	margin-right: 20px;
+	
+}*/
+/*#profile-grid { overflow: auto; white-space: normal; }
+#profile-grid .profile { padding-bottom: 40px; }
+#profile-grid .panel { padding: 0 }
+#profile-grid .panel-body { padding: 15px }
+#profile-grid .profile-name { font-weight: bold; }
+#profile-grid .thumbnail {margin-bottom:6px;}
+#profile-grid .panel-thumbnail { overflow: hidden; }
+#profile-grid .img-rounded { border-radius: 4px 4px 0 0;}
+*/
+.image {
+	float: left;
+	padding-right: 50px;
+	width: 200px;
+	height: auto;
+}
+hr {
+	display: block;
+}
+.item {
+	display: block;
+	float: left;
+	margin-bottom: 50px;
+	cursor: pointer;
+	padding-left: 0px;
+
+}
+.buy,
+.sell {
+	padding-right: 60px;
+}
+.item:hover {
+	background-color: #ccc;
+}
+h1 {
+	/*text-align: center;*/
+	font-size: 60px;
+}
+h2 {
+	margin-top: 0px;
+}
+p {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
