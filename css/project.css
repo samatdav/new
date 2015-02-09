@@ -1,3 +1,6 @@
+/*.navbar .container {
+	width: 50%;
+}*/
 .image {
 	float: left;
 	padding-right: 50px;
@@ -8,6 +11,20 @@
 	width: 350px;
 	height: auto;
 }
+.collapse button {
+	margin-left: 40px;
+}
+.new .btn {
+	height: 46px;
+}
+.dropdown .btn {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.new {
+	display: none;
+}
 /*hr {
 	display: block;
 }*/
@@ -15,17 +32,29 @@
 	display: block;
 	float: left;
 	margin-bottom: 50px;
-	cursor: pointer;
 	padding-left: 0px;
-
+}
+.box .item {
+	margin-bottom: 0px;
+}
+.info {
+	/*text-align: right;*/
+	width: 100%;
+}
+.items .item:hover {
+	background-color: #ccc;
+	cursor: pointer;
+}
+.btnbuy {
+	position: absolute;
+	bottom: -70px;
+	font-size: 30px;
 }
 .buy,
 .sell {
 	padding-right: 60px;
 }
-.item:hover {
-	background-color: #ccc;
-}
+
 h1 {
 	/*text-align: center;*/
 	font-size: 60px;

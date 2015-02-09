@@ -24,10 +24,10 @@
 
     // Establish the array which acts as a data source for the list
 var list = [
-{"type" : "buy", "img" : "img/sun.jpg", "title" : "BDS!", "text" : "wow so wow so wow", "price" : "999", "longtext" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
-{"type" : "sell", "img" : "img/sun.jpg", "title" : "Hello!", "text" : "blah blah", "price" : "1000", "longtext" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
-{"type" : "buy", "img" : "img/sun.jpg", "title" : "Hello!", "text" : "blah blah", "price" : "1000", "longtext" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
-{"type" : "sell", "img" : "img/sun.jpg", "title" : "Hello!", "text" : "blah blah", "price" : "1000", "longtext" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."}
+{"type" : "buy", "img" : "img/sun.jpg", "title" : "First!", "text" : "wow so wow so wow", "price" : "999", "longtext" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
+{"type" : "sell", "img" : "img/sun.jpg", "title" : "Second!", "text" : "blah blah", "price" : "1000", "longtext" : "Lorem ipsum do"},
+{"type" : "buy", "img" : "img/sun.jpg", "title" : "Third!", "text" : "blah blah", "price" : "1000", "longtext" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
+{"type" : "sell", "img" : "img/sun.jpg", "title" : "Forth!", "text" : "blah blah", "price" : "1000", "longtext" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."}
 ];
 
 function makelist(){
@@ -57,24 +57,23 @@ for( var i =  0 ; i < list.length; ++i){
 	var listContainer = document.createElement("div");
     listContainer.className = "clicked";
     // document.querySelectorAll('.' + list[i].type)[0].appendChild(listContainer);
-
 	$('.clicked').append(
-	'<div id="'+i+'" class="box item col-md-12";"><img class="image" src="' + list[i].img + 
-	'"/><h1>'+list[i].title+'</h1><h2>'+ list[i].text +'</h2><h3>'+list[i].longtext+'</h3><h2>' + list[i].price + 'p</h2></div>');
+	'<div id="'+i+'" class="box item col-md-12";"><img class="image img-responsive" src="' + list[i].img + 
+	'"/><div class="info"><h1>'+list[i].title+'</h1><h2>'+ list[i].text +'</h2><h3>'+list[i].longtext+'</h3><h2>' + list[i].price + 'p</h2><button type="button" class="btnbuy btn btn-default btn-lg btn-block">ЗАКАЗАТЬ!</button></div></div>');
     }
 }
 
-makelist();
 
 
 $(document).ready(function() {
     $(".fancybox").fancybox();
+
 });
 
 $(document).ready(function() {
     $(".various").fancybox({
         maxWidth    : 800,
-        maxHeight   : 600,
+        maxHeight   : 410,
         fitToView   : false,
         width       : '70%',
         height      : '70%',
