@@ -22,4 +22,13 @@ public class MainController {
 
         return new ModelAndView("add_form", "activity", new Activity());
     }
+
+    @RequestMapping(value = "/", method = RequestMethod.GET)
+    public ModelAndView showAll() {
+        ModelAndView modelAndView = new ModelAndView("index");
+
+        modelAndView.addObject("activities", activityService.getAll());
+
+        return modelAndView;
+    }
 }

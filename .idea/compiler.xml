@@ -25,6 +25,9 @@
         <module name="Something" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Something" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>
 
