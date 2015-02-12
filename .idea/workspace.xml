@@ -2,82 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c524a716-b1a3-49de-a784-4d959c1d29e1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/bootstrap-lightbox.css" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap-lightbox.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/bootstrap-lightbox.min.css" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap-lightbox.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap-theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap-theme.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap-theme.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/bootstrap.css" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/css/project.css" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/project.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/.gitattributes" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/.gitattributes" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/CHANGELOG.md" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/CHANGELOG.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/README.md" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/demo/1_b.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/demo/1_b.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/demo/1_s.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/demo/1_s.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/demo/2_b.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/demo/2_b.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/demo/2_s.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/demo/2_s.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/demo/3_b.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/demo/3_b.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/demo/3_s.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/demo/3_s.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/demo/4_b.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/demo/4_b.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/demo/4_s.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/demo/4_s.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/demo/5_b.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/demo/5_b.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/demo/5_s.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/demo/5_s.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/demo/ajax.txt" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/demo/ajax.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/demo/iframe.html" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/demo/iframe.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/demo/index.html" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/demo/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/lib/jquery-1.10.1.min.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/lib/jquery-1.10.1.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/lib/jquery-1.9.0.min.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/lib/jquery-1.9.0.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/lib/jquery.mousewheel-3.0.6.pack.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/lib/jquery.mousewheel-3.0.6.pack.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/source/blank.gif" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/source/blank.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/source/fancybox_loading.gif" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/source/fancybox_loading.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/source/fancybox_loading@2x.gif" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/source/fancybox_loading@2x.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/source/fancybox_overlay.png" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/source/fancybox_overlay.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/source/fancybox_sprite.png" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/source/fancybox_sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/source/fancybox_sprite@2x.png" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/source/fancybox_sprite@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/source/helpers/fancybox_buttons.png" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/source/helpers/fancybox_buttons.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/source/helpers/jquery.fancybox-buttons.css" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/source/helpers/jquery.fancybox-buttons.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/source/helpers/jquery.fancybox-buttons.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/source/helpers/jquery.fancybox-buttons.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/source/helpers/jquery.fancybox-media.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/source/helpers/jquery.fancybox-media.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/source/helpers/jquery.fancybox-thumbs.css" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/source/helpers/jquery.fancybox-thumbs.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/source/helpers/jquery.fancybox-thumbs.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/source/helpers/jquery.fancybox-thumbs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/source/jquery.fancybox.css" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/source/jquery.fancybox.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/source/jquery.fancybox.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/source/jquery.fancybox.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/source/jquery.fancybox.pack.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/source/jquery.fancybox.pack.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fancybox/sprite.psd" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fancybox/sprite.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/img/cleaning.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/cleaning.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/img/food.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/food.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/img/homework.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/homework.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/img/sun.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/img/sun.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/bootstrap-lightbox.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/bootstrap-lightbox.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/bootstrap-lightbox.min.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/bootstrap-lightbox.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/bootstrap.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/npm.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/npm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/project.js" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/project.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/project/.idea/.name" afterPath="$PROJECT_DIR$/src/main/webapp/resources/project/.idea/.name" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/project/.idea/encodings.xml" afterPath="$PROJECT_DIR$/src/main/webapp/resources/project/.idea/encodings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/project/.idea/misc.xml" afterPath="$PROJECT_DIR$/src/main/webapp/resources/project/.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/project/.idea/modules.xml" afterPath="$PROJECT_DIR$/src/main/webapp/resources/project/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/project/.idea/project.iml" afterPath="$PROJECT_DIR$/src/main/webapp/resources/project/.idea/project.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/project/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/src/main/webapp/resources/project/.idea/scopes/scope_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/project/.idea/vcs.xml" afterPath="$PROJECT_DIR$/src/main/webapp/resources/project/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/project/.idea/workspace.xml" afterPath="$PROJECT_DIR$/src/main/webapp/resources/project/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Something.iml" afterPath="$PROJECT_DIR$/Something.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Something_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Something_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Something.iws" />
@@ -128,8 +54,8 @@
       <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6329114" vertical-offset="1725" max-vertical-offset="2205">
-              <caret line="135" column="18" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.5063291" vertical-offset="30" max-vertical-offset="2175">
+              <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -148,8 +74,8 @@
       <file leaf-file-name="dispatcherServlet.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/spring/dispatcherServlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.32" vertical-offset="52" max-vertical-offset="540">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state vertical-scroll-proportion="-9.32" vertical-offset="52" max-vertical-offset="540">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -158,13 +84,9 @@
       <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.846154" vertical-offset="228" max-vertical-offset="1005">
+            <state vertical-scroll-proportion="-11.730769" vertical-offset="205" max-vertical-offset="1005">
               <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding>
-                <marker date="1423729287000" expanded="true" signature="717:1094" placeholder="..." />
-                <marker date="1423729287000" expanded="true" signature="875:1034" placeholder="..." />
-                <marker date="1423729287000" expanded="true" signature="1117:1225" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -451,6 +373,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Something" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Something" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1134,7 +1086,7 @@
       <workItem from="1423418851834" duration="78000" />
       <workItem from="1423418959673" duration="2693000" />
       <workItem from="1423461478172" duration="16083000" />
-      <workItem from="1423556020625" duration="14587000" />
+      <workItem from="1423556020625" duration="21078000" />
     </task>
     <task id="LOCAL-00001" summary="Auto-increment with sequence.&#10;">
       <created>1423461742548</created>
@@ -1184,11 +1136,15 @@
       <created>1423721337142</created>
       <updated>1423721337142</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Added frontend. Unstable">
+      <created>1423730882067</created>
+      <updated>1423730882067</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33450000" />
+    <option name="totallyTimeSpent" value="39941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1211,7 +1167,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1285,7 +1241,8 @@
     <MESSAGE value="Reformat code&#10;" />
     <MESSAGE value="It can be launched. Error with mapping" />
     <MESSAGE value="Fixed mapping" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed mapping" />
+    <MESSAGE value="Added frontend. Unstable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added frontend. Unstable" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1335,11 +1292,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="990">
           <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
-          <folding>
-            <marker date="1423729287000" expanded="true" signature="717:1094" placeholder="..." />
-            <marker date="1423729287000" expanded="true" signature="875:1034" placeholder="..." />
-            <marker date="1423729287000" expanded="true" signature="1117:1225" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1558,18 +1511,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.846154" vertical-offset="228" max-vertical-offset="1005">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <marker date="1423729287000" expanded="true" signature="717:1094" placeholder="..." />
-            <marker date="1423729287000" expanded="true" signature="875:1034" placeholder="..." />
-            <marker date="1423729287000" expanded="true" signature="1117:1225" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.50526315" vertical-offset="4245" max-vertical-offset="34680">
@@ -1595,14 +1536,6 @@
           <folding>
             <element signature="n#!!doc" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/dispatcherServlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.32" vertical-offset="52" max-vertical-offset="540">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1642,10 +1575,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="471">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/dispatcherServlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.32" vertical-offset="52" max-vertical-offset="540">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.730769" vertical-offset="205" max-vertical-offset="1005">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6329114" vertical-offset="1725" max-vertical-offset="2205">
-          <caret line="135" column="18" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.5063291" vertical-offset="30" max-vertical-offset="2175">
+          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
           <folding />
         </state>
       </provider>

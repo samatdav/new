@@ -1,23 +1,22 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html lang="en">
+<html lang="ru">
 
 <head>
-
     <meta charset="UTF-8">
-    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=320, height=device-height, target-densitydpi=medium-dpi" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=320, height=device-height"/>
 
 
     <title>Project</title>
 
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
-    <link href="<c:url value="/resources/css/bootstrap.min.css"/>" rel="stylesheet">
+    <link href="../../resources/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="<c:url value="/resources/css/project.css"/>" rel="stylesheet">
+    <link href="../../resources/css/project.css" rel="stylesheet">
 
-    <link rel="shortcut icon" href="<c:url value="/resources/img/favicon.ico"/>" >
+    <link rel="shortcut icon" href="/resources/img/favicon.ico">
 
 
     <!-- Add jQuery library -->
@@ -97,10 +96,10 @@
                     <span class="caret"></span>
                 </button>
                 <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#"><img src="<c:url value="/resources/img/homework.jpg"/>"> Домашняя работа</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#"><img src="<c:url value="/resources/img/cleaning.jpg"/>">Уборка</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#"><img src="<c:url value="/resources/img/food.jpg"/>">Еда</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#"><img src="<c:url value="/resources/img/homework.jpg"/>">Другое</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#"><img src="../../resources/img/homework.jpg"/> Домашняя работа</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#"><img src="../../resources/img/cleaning.jpg"/>Уборка</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#"><img src="../../resources/img/food.jpg"/>Еда</a></li>
+                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#"><img src="../../resources/img/homework.jpg"/>Другое</a></li>
                 </ul>
             </div>
             <div class="form-group">
@@ -120,18 +119,17 @@
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 
 
+<script type="text/javascript" src="../../resources/js/bootstrap.min.js"></script>
 
-<script src="<c:url value="/resources/js/bootstrap.min.js"/>"></script>
-
-<script src="<c:url value="/resources/js/project.js"/>"></script>
+<script type="text/javascript" src="../../resources/js/project.js"></script>
 
 <!-- Add fancyBox -->
-<link rel="stylesheet" href="<c:url value="/resources/fancybox/source/jquery.fancybox.css"/>" type="text/css" media="screen" />
+<link rel="stylesheet" href="../../resources/fancybox/source/jquery.fancybox.css" type="text/css" media="screen" />
 
-<script type="text/javascript" src="<c:url value="/resources/fancybox/source/jquery.fancybox.pack.js"/>"></script>
+<script type="text/javascript" src="../../resources/fancybox/source/jquery.fancybox.pack.js"></script>
 
-<link rel="stylesheet" href="<c:url value="/resources/fancybox/source/helpers/jquery.fancybox-thumbs.css"/>" type="text/css" media="screen" />
-<script type="text/javascript" src="<c:url value="/resources/fancybox/source/helpers/jquery.fancybox-thumbs.js"/>"></script>
+<link rel="stylesheet" href="../../resources/fancybox/source/helpers/jquery.fancybox-thumbs.css" type="text/css" media="screen" />
+<script type="text/javascript" src="../../resources/fancybox/source/helpers/jquery.fancybox-thumbs.js"></script>
 
 <script type="text/javascript">
     makelist();
