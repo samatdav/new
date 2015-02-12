@@ -11,9 +11,7 @@
 
     <!-- Включаем MVC аннотации -->
     <mvc:annotation-driven/>
-    <bean id="handlerMapping" class="org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping">
-        <property name="alwaysUseFullPath" value="true"/>
-    </bean>
+
     <!--
     Использование MVC Resources
     Проще говоря, все файлы из папки webapp/resources/ будут доступны по адресу: localhost/resources/
