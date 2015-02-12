@@ -25,10 +25,10 @@ for( var i =  0 ; i < list.length; ++i){
     document.querySelectorAll('.' + list[i].type)[0].appendChild(listContainer);
 
 	$('.' + list[i].type).append(
-	'<li onclick="location.href=#'+i+'"class="item col-md-12 various" href="#'+i+
+	'<div onclick="location.href=#'+i+'"class="item col-md-12 various" href="#'+i+
 	'"><img class="image img-circle" src="img/' + list[i].field + 
 	'.jpg" width="90" height="90"/><h2><a href="#' + i + 
-	'">'+list[i].title+'</a></h2><h2 class="price">' + list[i].price + 'p</h2></li>');
+	'">'+list[i].title+'</a></h2><h2 class="price">' + list[i].price + '</h2></div>');
 
 
 	// after item was clicked
@@ -36,7 +36,7 @@ for( var i =  0 ; i < list.length; ++i){
     listContainer.className = "clicked";
 	$('.clicked').append(
 	'<div id="'+i+'" class="box item col-md-12";"><img class="image img-responsive" src="img/' + list[i].field +
-    '.jpg"/><div class="info"><h1>'+list[i].title+'</h1><h3>'+list[i].longtext+'</h3><h2>' + list[i].price + 'p</h2><button type="button" class="btnbuy btn btn-default btn-lg btn-block">ЗАКАЗАТЬ!</button></div></div>');
+    '.jpg"/><div class="info"><h1>'+list[i].title+'</h1><h3>'+list[i].longtext+'</h3><h2>' + list[i].price + '</h2><button type="button" class="btnbuy btn btn-default btn-lg btn-block">ЗАКАЗАТЬ!</button></div></div>');
     }
 }
 
