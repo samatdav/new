@@ -1,0 +1,99 @@
+/*.navbar .container {
+	width: 50%;
+}*/
+body {
+	font-family: ;
+	background-color: #8096c7;
+}
+.hide {
+	display: none;
+}
+
+#new .btn{
+	height: 43px;
+}
+#new .dropdown .btn {
+	text-align: left;
+}
+.image {
+	float: left;
+	margin-right: 50px;
+	width: 200px;
+	height: auto;
+}
+.box img{
+	width: 350px;
+	height: auto;
+}
+.collapse button {
+	margin-left: 40px;
+}
+.new .btn {
+	height: 46px;
+}
+.dropdown-menu li img{
+	width: 60px;
+	margin-right: 30px;
+}
+.price {
+	position: absolute;
+	bottom: 10px;
+	left: 250px;
+}
+h1 {
+	margin-bottom: 30px;
+}
+.dropdown .btn {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#vk_auth {
+	margin: 0 auto;
+	margin-top: 100px;
+}
+
+/*hr {
+	display: block;
+}*/
+.item {
+	display: block;
+	float: left;
+	margin-bottom: 50px;
+	padding-left: 0px;
+}
+.box .item {
+	margin-bottom: 0px;
+}
+.info {
+	/*text-align: right;*/
+	width: 100%;
+}
+.items .item:hover {
+	background-color: #2c50a2;
+	cursor: pointer;
+	border-radius: 100px;
+}
+.btnbuy {
+	position: absolute;
+	bottom: -70px;
+	font-size: 30px;
+}
+.buy,
+.sell {
+	padding-right: 60px;
+}
+
+h1 {
+	/*text-align: center;*/
+	font-size: 60px;
+}
+h2 {
+	margin-top: 0px;
+}
+p {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.clicked {
+	display: none;
+}
