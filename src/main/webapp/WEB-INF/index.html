@@ -11,10 +11,10 @@
     <title>Project</title>
 
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="../resources/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="css/project.css" rel="stylesheet">
+    <link href="../resources/css/project.css" rel="stylesheet">
 
     <link rel="shortcut icon" href="img/favicon.ico" >
 
@@ -22,13 +22,15 @@
 <!-- Add jQuery library -->
 
 
+<script type="text/javascript" src="../resources/fancybox/lib/jquery-1.10.1.min.js"></script>
+<!--<script type="text/javascript" src="https://vk.com/js/api/openapi.js?116"></script>-->
 
-<script type="text/javascript" src="https://vk.com/js/api/openapi.js?116"></script>
-
+<!--
 <script type="text/javascript">
   VK.init({apiId: 4773764});
 </script>
 
+-->
 
 </head>
 
@@ -52,9 +54,9 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="page-scroll">
-                        <button class="various btn btn-default btn-primary navbar-btn" href="#new" role="button">Создать объявление</button>
+                        <button class="various btn btn-default btn-danger navbar-btn" href="#new" role="button">Создать объявление</button>
                     </li>
-                    <li><button class="various btn btn-default btn-primary navbar-btn" href="#vk_auth" role="button">Войти</button></li>
+                    <li><button class="various btn btn-default btn-danger navbar-btn" href="#vk_auth" role="button">Войти</button></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -64,11 +66,13 @@
 
 <div class="hide">
 <div id="vk_auth"></div>
+<!--
 <script type="text/javascript">
 VK.Widgets.Auth("vk_auth", {width: "400px", onAuth: function(data) {
  alert('user '+data['uid']+' authorized');
 } });
 </script>
+-->
 </div>
 <div class="container">
     <div class="items" >
@@ -116,21 +120,21 @@ VK.Widgets.Auth("vk_auth", {width: "400px", onAuth: function(data) {
     </div>
 </form>
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>-->
 
 
 
-<script src="js/bootstrap.min.js"></script>
+<script src="../resources/js/bootstrap.min.js"></script>
 
-<script src="js/project.js"></script>
+<script src="../resources/js/project.js"></script>
 
 <!-- Add fancyBox -->
-<link rel="stylesheet" href="fancybox/source/jquery.fancybox.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="../resources/fancybox/source/jquery.fancybox.css" type="text/css" media="screen" />
 
-<script type="text/javascript" src="fancybox/source/jquery.fancybox.pack.js"></script>
+<script type="text/javascript" src="../resources/fancybox/source/jquery.fancybox.pack.js"></script>
 
-<link rel="stylesheet" href="fancybox/source/helpers/jquery.fancybox-thumbs.css" type="text/css" media="screen" />
-<script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-thumbs.js"></script>
+<link rel="stylesheet" href="../resources/fancybox/source/helpers/jquery.fancybox-thumbs.css" type="text/css" media="screen" />
+<script type="text/javascript" src="../resources/fancybox/source/helpers/jquery.fancybox-thumbs.js"></script>
 
 <script type="text/javascript">
     makelist();

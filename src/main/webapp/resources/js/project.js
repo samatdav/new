@@ -26,7 +26,7 @@ for( var i =  0 ; i < list.length; ++i){
 
 	$('.' + list[i].type).append(
 	'<div onclick="location.href=#'+i+'"class="item col-md-12 various" href="#'+i+
-	'"><img class="image img-circle" src="/resources/img/' + list[i].field +
+	'"><img class="image img-circle" src="../resources/img/' + list[i].field +
 	'.jpg" width="90" height="90"/><h2><a href="#' + i + 
 	'">'+list[i].title+'</a></h2><h2 class="price">' + list[i].price + '</h2></div>');
 
@@ -35,7 +35,7 @@ for( var i =  0 ; i < list.length; ++i){
 	var listContainer = document.createElement("div");
     listContainer.className = "clicked";
 	$('.clicked').append(
-	'<div id="'+i+'" class="box item col-md-12";"><img class="image img-responsive" src="/resources/img/' + list[i].field +
+	'<div id="'+i+'" class="box item col-md-12";"><img class="image img-responsive" src="../resources/img/' + list[i].field +
     '.jpg"/><div class="info"><h1>'+list[i].title+'</h1><h3>'+list[i].longtext+'</h3><h2>' + list[i].price + '</h2><button type="button" class="btnbuy btn btn-default btn-lg btn-block">ЗАКАЗАТЬ!</button></div></div>');
     }
 }
