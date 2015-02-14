@@ -27,8 +27,7 @@ for( var i =  0 ; i < list.length; ++i){
 	$('.' + list[i].type).append(
 	'<div onclick="location.href=#'+i+'"class="item col-md-12 various" href="#'+i+
 	'"><img class="image img-circle" src="../resources/img/' + list[i].field +
-	'.jpg" width="90" height="90"/><h2><a href="#' + i + 
-	'">'+list[i].title+'</a></h2><h2 class="price">' + list[i].price + '</h2></div>');
+	'.jpg" width="90" height="90"/><h2>'+list[i].title+'</h2><h2 class="price">' + list[i].price + '</h2></div>');
 
 
 	// after item was clicked
